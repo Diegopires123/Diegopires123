@@ -53,7 +53,7 @@
 📂 **Repositórios Populares:**  
 <p align="center">
   <a href="https://github.com/SEU_USUARIO/projeto1">
-    <img src="[https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=projeto1&theme=radical](https://diegopires123.github.io/loja-de-carros/)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=projeto2&theme=radical">
   </a>
   <a href="https://github.com/SEU_USUARIO/projeto2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=projeto2&theme=radical">
